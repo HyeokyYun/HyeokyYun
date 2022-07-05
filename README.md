@@ -1,5 +1,6 @@
 ### Hyeok Yun
 #### Flutter 개발자
+#### 어플리케이션 기획자
 <!--
 **HyeokyYun/HyeokyYun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
